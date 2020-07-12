@@ -1,4 +1,6 @@
-### Hi there 👋
+### Fjavier De Freitas
+
+![logo](./frame.png)
 
 - 🔭 I’m currently working on Attach - I'm Digital Analytics Engineer
 - 🌱 I’m currently learning GraphQL and ElasticSearch for optimize my software
