@@ -1,4 +1,6 @@
-![logo](https://github.com/Scorcherfjk/Scorcherfjk/blob/master/frame.png?raw=true)
+# Hey there 👋🏻 <br> I'm FJavier De Freitas
+
+Programming teacher and software developer. Passionate about web technologies, machine learning and optimization.
 
 - 🔭 I’m currently working on Attach - I'm Digital Analytics Engineer
 - 🌱 I’m currently learning GraphQL and ElasticSearch for optimize my software
@@ -16,6 +18,10 @@
 
 ![Git](https://img.shields.io/badge/-Git-040d04?style=flat-square&logo=git)
 ![Flutter](https://img.shields.io/badge/-Flutter-040d04?style=flat-square&logo=flutter)
+![Docker](https://img.shields.io/badge/-Docker-040d04?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-040d04?style=flat-square&logo=kubernetes)
+
+
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-040d04?style=flat-square&logo=redux)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
