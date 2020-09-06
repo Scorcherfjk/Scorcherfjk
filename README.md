@@ -7,6 +7,15 @@ Programming teacher and software developer. Passionate about web technologies, m
 - 💬 Ask me about web technologies and machine learning
 - 📫 How to reach me: [@fjdfreitas](https://twitter.com/fjdfreitas)
 
+## Projects
+
+Some project deployed on Github pages.
+
+- To do list made only with Vue.js &#x279c; [To Do App](https://scorcherfjk.github.io/ToDoListVue/) 
+- Game/WebApp made with Vue.js & Tailwind.css &#x279c; [Game](https://scorcherfjk.github.io/juego-seleccion/)
+
+## Skills
+
 #### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/-Javascript-040d04?style=flat-square&logo=javascript)
