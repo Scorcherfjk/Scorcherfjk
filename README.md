@@ -75,4 +75,4 @@ Some project deployed on Github pages.
 
 if you want collaborate, you can...
 
-<a href="https://www.buymeacoffee.com/scorcherfjk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 117px !important;" ></a>
+<a href="https://www.buymeacoffee.com/scorcherfjk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="max-width: 30% !important;" ></a>
