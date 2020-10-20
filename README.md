@@ -73,6 +73,4 @@ Some project deployed on Github pages.
 
 ## Collaborate
 
-if you want collaborate, you can...
-
-<a href="https://www.buymeacoffee.com/scorcherfjk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="max-width: 30% !important;" ></a>
+if you want collaborate, you can [Buy me a coffee](https://www.buymeacoffee.com/scorcherfjk)
