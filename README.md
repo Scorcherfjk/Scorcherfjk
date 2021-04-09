@@ -2,8 +2,8 @@
 
 Programming teacher and software developer. Passionate about web technologies, machine learning and optimization.
 
-- 🔭 I’m currently working on Havas - I'm FullStack Developer
-- 🌱 I’m currently learning how to make a bot for Discord
+- 🔭 I’m currently working on my own - I'm FullStack Developer
+- 🌱 I’m currently improving my skills with Django
 - 💬 Ask me about web technologies and machine learning
 - 📫 How to reach me: [@fjdfreitas](https://twitter.com/fjdfreitas)
 
