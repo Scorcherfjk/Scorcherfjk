@@ -1,7 +1,7 @@
 # Hey there 👋🏻 <br> I'm FJavier De Freitas
 
 Programming teacher and software developer. Passionate about web technologies, machine learning and optimization.
-I'm Microsoft Certified: [Azure AI Fundamentals](www.google.com) 
+I'm Microsoft Certified: [Azure AI Fundamentals](https://www.credly.com/badges/0667cd78-3204-442e-bd62-4097c3e3c27c/public_url)
 
 - 🔭 I’m currently working on my own - I'm FullStack Developer and AI Specialist
 - 🌱 I’m improving my Django skills
