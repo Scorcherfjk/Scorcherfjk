@@ -1,9 +1,12 @@
 # Hey there 👋🏻 <br> I'm FJavier De Freitas
 
 Programming teacher and software developer. Passionate about web technologies, machine learning and optimization.
+I'm Microsoft Certified: [Azure AI Fundamentals](www.google.com) 
 
-- 🔭 I’m currently working on my own - I'm FullStack Developer
-- 🌱 I’m currently improving my skills with Django
+- 🔭 I’m currently working on my own - I'm FullStack Developer and AI Specialist
+- 🌱 I’m improving my Django skills
+- 🤖 I'm learning how to integrate my Virtual Assitant to Facebook and Whatsapp 🥳
+- 🤓 I'm trying to develop an Alexa Skill
 - 💬 Ask me about web technologies and machine learning
 - 📫 How to reach me: [@fjdfreitas](https://twitter.com/fjdfreitas)
 
@@ -38,10 +41,7 @@ Some project deployed on Github pages.
 ![Redux](https://img.shields.io/badge/-Redux-040d04?style=flat-square&logo=redux)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-040d04?style=flat-square&logo=graphql)
-![Webpack](https://img.shields.io/badge/-Webpack-040d04?style=flat-square&logo=webpack)
 ![JSON Web Tokens](https://img.shields.io/badge/-JWT-040d04?style=flat-square&logo=json-web-tokens)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-040d04?style=flat-square&logo=tensorflow)
-
 
 #### DataBases
 
@@ -70,6 +70,8 @@ Some project deployed on Github pages.
 #### Cloud
 
 ![Google Cloud Platform](https://img.shields.io/badge/-GCP-040d04?style=flat-square&logo=google-cloud)
+![Azure](https://img.shields.io/badge/-AZURE-040d04?style=flat-square&logo=microsoft-azure)
+![IBM](https://img.shields.io/badge/-IBM-040d04?style=flat-square&logo=ibm)
 
 ## Collaborate
 
