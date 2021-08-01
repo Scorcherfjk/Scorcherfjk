@@ -74,7 +74,7 @@ Some project deployed on Github pages.
 
 ![Google Cloud Platform](https://img.shields.io/badge/-GCP-040d04?style=flat-square&logo=google-cloud)
 ![Azure](https://img.shields.io/badge/-AZURE-040d04?style=flat-square&logo=microsoft-azure)
-![IBM](https://img.shields.io/badge/-IBM%20CLOUD-040d04?style=flat-square&logo=ibm)
+![IBM](https://img.shields.io/badge/-IBM-040d04?style=flat-square&logo=ibm)
 
 ## Collaborate
 
