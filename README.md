@@ -6,16 +6,23 @@ I'm Microsoft Certified: [Azure AI Fundamentals](https://www.credly.com/badges/0
 
 <img src="ai.png" alt="AI" height="60" width="60">
 
-- 🔭 I’m currently working on my own - I'm FullStack Developer and AI Specialist
-- 🌱 I’m improving my Django skills
-- 🤖 I'm learning how to integrate my Virtual Assitant to Facebook and Whatsapp 🥳
-- 🤓 I'm trying to develop an Alexa Skill
-- 💬 Ask me about web technologies and machine learning
+- 🔭 I’m currently working on my own - I'm FullStack Developer and AI Specialist.
+- 🌱 I’m improving my Python skills.
+- 📖 I'm working in my biggest project (key name いちご 😉). I'm really excited. 
+  - Planning in Notion
+  - Discord bot with Node.js
+  - Backend with Python/FastAPI
+  - NLP Model with NLTK and Scikit-Learn
+- 💬 Ask me about web technologies and machine learning.
 - 📫 How to reach me: [@fjdfreitas](https://twitter.com/fjdfreitas)
+
+
+- 🤖 I've learned how to use Watson Assistant.
+- 🤖 I've learned how to integrate my Virtual Assitant to Facebook and Whatsapp.
 
 ## Projects
 
-Some project deployed on Github pages.
+Some project I've deployed.
 
 - Ip Address tracker made with React &#x279c; [IP Tracker](https://scorcherfjk.github.io/ip-address-tracker/)
 - To do list made only with Vue.js &#x279c; [To Do App](https://scorcherfjk.github.io/ToDoListVue/) 
@@ -37,7 +44,6 @@ Some project deployed on Github pages.
 ![Flutter](https://img.shields.io/badge/-Flutter-040d04?style=flat-square&logo=flutter)
 ![Firebase](https://img.shields.io/badge/-Firebase-040d04?style=flat-square&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-040d04?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-040d04?style=flat-square&logo=kubernetes)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Router](https://img.shields.io/badge/-React%20Router-040d04?style=flat-square&logo=react-router)
