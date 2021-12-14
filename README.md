@@ -9,10 +9,11 @@ I'm Microsoft Certified: [Azure AI Fundamentals](https://www.credly.com/badges/0
 - 🔭 I’m currently working on my own - I'm FullStack Developer and AI Specialist.
 - 🌱 I’m improving my Python skills.
 - 📖 I'm working in my biggest project (key name いちご 😉). I'm really excited. 
-  - Planning in Notion
+  - Planning in Notion.
   - Discord bot with Node.js
   - Backend with Python/FastAPI
   - NLP Model with NLTK and Scikit-Learn
+  - You can find the details [here](https://knowing-jumpsuit-369.notion.site/Ichigo-683ea9998f2e4be6b8894d5cc3217250). it's in spanish 😕
 - 💬 Ask me about web technologies and machine learning.
 - 📫 How to reach me: [@fjdfreitas](https://twitter.com/fjdfreitas)
 
