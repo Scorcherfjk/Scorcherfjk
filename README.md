@@ -17,10 +17,6 @@ I'm Microsoft Certified: [Azure AI Fundamentals](https://www.credly.com/badges/0
 - 💬 Ask me about web technologies and machine learning.
 - 📫 How to reach me: [@fjdfreitas](https://twitter.com/fjdfreitas)
 
-
-- 🤖 I've learned how to use Watson Assistant.
-- 🤖 I've learned how to integrate my Virtual Assitant to Facebook and Whatsapp.
-
 ## Projects
 
 Some project I've deployed.
