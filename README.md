@@ -2,18 +2,21 @@
 
 
 Programming teacher and software developer. Passionate about web technologies, machine learning and optimization.
-I'm Microsoft Certified: [Azure AI Fundamentals](https://www.credly.com/badges/0667cd78-3204-442e-bd62-4097c3e3c27c/public_url)
+- I'm Microsoft Certified: [Azure AI Fundamentals](https://www.credly.com/badges/0667cd78-3204-442e-bd62-4097c3e3c27c/public_url)
+<img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure" height="80" width="80">
 
-<img src="ai.png" alt="AI" height="60" width="60">
+- I'm MongoDB Certified: [Associate Developer](https://www.credly.com/badges/e43649db-d0c9-4b2a-ad2c-15646d3717e6/print)
+<img src="https://images.credly.com/size/340x340/images/650ebdbe-d526-4b47-b186-c1ab516b5a7c/image.png" alt="MongoDB" height="80" width="80">
 
-- 🔭 I’m currently working on my own - I'm FullStack Developer and AI Specialist.
+
+- 🔭 I’m currently working on my own - I'm FullStack Developer.
 - 🌱 I’m improving my Python skills.
-- 📖 I'm working in my biggest project (key name いちご 😉). I'm really excited. 
+- 📖 I worked in my biggest project (key name いちご 😉). I was really excited. 
   - Planning in Notion.
   - Discord bot with Node.js
   - Backend with Python/FastAPI
   - NLP Model with NLTK and Scikit-Learn
-  - You can find the details [here](https://knowing-jumpsuit-369.notion.site/Ichigo-683ea9998f2e4be6b8894d5cc3217250). it's in spanish 😕
+  - You can find the details [here](https://knowing-jumpsuit-369.notion.site/Ichigo-683ea9998f2e4be6b8894d5cc3217250). It's in spanish 😕
 - 💬 Ask me about web technologies and machine learning.
 - 📫 How to reach me: [@fjdfreitas](https://twitter.com/fjdfreitas)
 
@@ -21,6 +24,7 @@ I'm Microsoft Certified: [Azure AI Fundamentals](https://www.credly.com/badges/0
 
 Some project I've deployed.
 
+- Climbing Academy Landing made with Astro &#x279c; [Climbing Academy](https://climbing-academy.netlify.app/)
 - Ip Address tracker made with React &#x279c; [IP Tracker](https://scorcherfjk.github.io/ip-address-tracker/)
 - To do list made only with Vue.js &#x279c; [To Do App](https://scorcherfjk.github.io/ToDoListVue/) 
 - Game/WebApp made with Vue.js & Tailwind.css &#x279c; [Game](https://scorcherfjk.github.io/juego-seleccion/)
